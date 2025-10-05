@@ -1,0 +1,1 @@
+/home/qburke/.config/omarchy/current/theme/neovim.lua
