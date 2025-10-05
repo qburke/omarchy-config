@@ -10,8 +10,7 @@
     "custom/screenrecording-indicator",
     "network",
     "pulseaudio",
-    "clock",
-    "hyprland/workspaces"
+    "clock"
   ],
   "modules-right": [
   ],
